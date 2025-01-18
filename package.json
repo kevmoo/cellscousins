@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@bytecodealliance/componentize-js": "^0.15.1",
+    "@bytecodealliance/jco": "^1.8.1"
+  }
+}
